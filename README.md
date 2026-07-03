@@ -15,17 +15,7 @@
 
 > 🛠️ **Credits & Origin:** Vuln Hunter is built as an extensively upgraded and enhanced version of the popular open-source tool **RapidScan**, integrating broader multi-tool checks, robust error handling, and refined execution parameters.
 
----
 
-## 🖥️ Live Simulations
-
-### 🔹 Safe Mode Scan
-![Safe Mode Simulation](https://raw.githubusercontent.com/SYLHETYHACKVENGER/vuln-hunter/main/assets/safe_scan.gif)
-
-### 🔹 Aggressive Mode Scan
-![Aggressive Mode Simulation](https://raw.githubusercontent.com/SYLHETYHACKVENGER/vuln-hunter/main/assets/aggressive_scan.gif)
-
----
 
 ## 📖 Tool Overview
 
