@@ -1,7 +1,7 @@
 # 🔍 Vuln Hunter – The Multi‑Tool Web Vulnerability Scanner
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SYLHETYHACKVENGER/vuln-hunter/assets/banner.png" alt="Vuln Hunter Banner" width="100%">
+  <img src="/assets/banner.png" alt="Vuln Hunter Banner" width="100%">
 </p>
 
 <p align="center">
