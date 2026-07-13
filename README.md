@@ -84,8 +84,8 @@ Featuring fully verbose tracing (`-v`), it provides transparent, auditable resul
 | **1. Update Repositories** | System | `sudo apt update` |
 | **2. Install Global Tools** | System | `sudo apt install -y nmap nikto wapiti amass dnsenum dnsrecon fierce whatweb golismero uniscan theharvester sslyze wafw00f lbd dirb davtest dnswalk dnsmap dmitry whois wget host` | If failed install their clone in ubuntu globally okay.
 | **3. Clone Repository** | Local | `git clone https://github.com/sylhetyhackvenger/VULNHUNTER` |
-| **4. Navigate ** | Local | `cd vuln-hunter` |
-| **5. Execute Tool** | Local | `python3 vulnhunter.py example.com -v --extra` |
+| **4. Navigate ** | Local | `cd VULNHUNTER.py` |
+| **5. Execute Tool** | Local | `python3 VULNHUNTER.py example.com -v --extra` |
 
 ---
 
